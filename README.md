@@ -73,10 +73,10 @@ This suggests that improving performance requires better integration of sensing,
 ## Visual Results
 
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+<img width="792" height="708" alt="image" src="https://github.com/user-attachments/assets/b10d748e-d303-4468-9c97-60a2491f71ad" />
 
 ### Fault Prediction Examples
-![Predictions](results/sample_output.png)
+<img width="1584" height="1583" alt="image" src="https://github.com/user-attachments/assets/364e23bd-7dee-4f36-bbc0-29624f486cb9" />
 
 ---
 
@@ -87,3 +87,21 @@ This suggests that improving performance requires better integration of sensing,
 - Matplotlib  
 
 ---
+
+## Note
+Model weights and intermediate files are not included to keep the repository lightweight and focused on implementation.
+
+---
+
+## Research Context
+This work aligns with research in data-driven fault diagnosis and predictive maintenance in smart grid systems, where robustness under real-world conditions is a key challenge.
+
+---
+
+## Future Work
+- Improve robustness under varying grid conditions  
+- Integrate real-time monitoring systems  
+- Explore multi-modal sensing approaches  
+
+---
+
